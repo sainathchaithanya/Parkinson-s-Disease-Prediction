@@ -25,12 +25,12 @@ The dataset integrates **cerebrospinal fluid (CSF) mass spectrometry (CSF-MS) re
 
 ### **4️⃣ Gait Dataset & Clinical Integration**  
 - **Source (Raw Gait Data):** [Gait Data](https://doi.org/10.17632/4tjd8jrhp8.1)  
-- **Source (Updated Clinical Dataset with Gait):** [Updated Clinical Dataset with Gait](https://drive.google.com/file/d/1xk9U0-ovwb2QZgNK75IwrLGZZxTUMYr6/view)  
+- **Source (Updated Clinical Dataset with Gait):** [Updated Clinical Dataset with Gait](https://doi.org/10.5281/zenodo.14848598)  
 - **Description:** Contains motor function metrics such as gait speed, freezing episodes, stride variability, and balance parameters.  
 - **Relevance:** Enhances **motor function assessment** for Parkinson’s disease severity prediction.  
 
 ### **5️⃣ Integration of UniProt Protein Dataset with Clinical Data**  
-- **Source:** [Final Resultant Dataset](https://drive.google.com/file/d/1xU8p4Y2IdI3xy9V5FnLMEOKzdHfIS14z/view?usp=drivesdk)  
+- **Source:** [Final Resultant Dataset](https://doi.org/10.5281/zenodo.14848598)  
 - **Description:** Integrated dataset combining **protein, peptide, and clinical data** for comprehensive analysis.  
 - **Relevance:** Enables robust **multi-modal modeling of Parkinson’s disease progression**.  
 
